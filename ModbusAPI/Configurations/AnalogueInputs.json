@@ -1,0 +1,16 @@
+{
+  "FT521": {
+    "Address": 0,
+    "Multiplier": 10
+
+  },
+  "FT522": {
+    "Address": 1,
+    "Multiplier": 0.1
+  },
+  "FT523": {
+    "Address": 1,
+    "Multiplier": 1
+  }
+
+}
